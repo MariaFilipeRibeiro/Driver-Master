@@ -1,0 +1,5 @@
+php_value display_errors On
+php_value mbstring.http_input auto
+php_value date.timezone Europe/Lisbon
+php_value upload_max_filesize 10M
+php_value post_max_size 12M
